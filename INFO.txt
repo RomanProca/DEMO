@@ -1,0 +1,5 @@
+Audacity
+-Tum.aup
+-Tum_data
+Desen.kra
+Void.jar
