@@ -3,3 +3,4 @@ Audacity
 -Tum_data
 Desen.kra
 Void.jar
+corectare
